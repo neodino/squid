@@ -47,9 +47,6 @@ if ! yesno; then
     exit 1
 fi
 
-# Operating System Update
-apt-get update
-
 
 # Install Packages
 apt-get install apache2-utils squid -y
