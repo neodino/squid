@@ -49,7 +49,7 @@ fi
 
 # Operating System Update
 apt-get update
-apt-get -f install -y
+
 
 # Install Packages
 apt-get install apache2-utils squid -y
