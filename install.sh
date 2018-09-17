@@ -49,7 +49,6 @@ fi
 
 # Operating System Update
 apt-get update
-apt-get upgrade -y
 apt-get -f install -y
 
 # Install Packages
