@@ -31,7 +31,7 @@ This installer works on the following operating systems:
 
 1) Download the Install Script:
 ```sh
-$ wget https://raw.githubusercontent.com/zoilomora/squid/master/install.sh
+$ wget https://raw.githubusercontent.com/neodino/squid/master/install.sh
 ```
 
 2) Run the Install Script:

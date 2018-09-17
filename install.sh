@@ -70,7 +70,7 @@ cd /etc/squid/
 
 # Download file from GitHub
 mv -i squid.conf squid.conf.bak
-wget https://raw.githubusercontent.com/zoilomora/squid/master/squid.conf
+wget https://raw.githubusercontent.com/neodino/squid/master/squid.conf
 
 # Create cache file
 mkdir list
