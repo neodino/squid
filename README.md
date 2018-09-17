@@ -13,7 +13,7 @@ This installer is based on the following tutorials:
 
 1) Create the container:
 ```sh
-docker run -d -p 3128:3128 --name proxy -h proxy zoilomora/proxy
+docker run -d -p 3128:3128 --name proxy -h proxy neodino/proxy
 ```
 
 2) Register new users:
